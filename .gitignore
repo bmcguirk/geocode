@@ -1,0 +1,13 @@
+local_settings.py
+dh-dev
+*.swp
+.vagrant
+*.pyc
+/*.sql
+package.box
+*~
+*.log
+*.sqlite3
+*.db
+geocode/media/
+geocode/static/
